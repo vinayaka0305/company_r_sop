@@ -1,0 +1,114 @@
+What Youre Doing in PM Checks:
+
+Youre checking different solar sites using links (mostly to dashboards) to see if everything is working. If there's a problem, you may need to create a ticket or notify a team — depending on what the issue is.
+
+
+✅ What to Check (and What to Do)
+
+1. Use the Dashboard Links:
+
+All the links listed (like Central 40, Luciana, Phoenix, etc.) are dashboards for different solar farms. You'll:
+
+->Click the link
+
+->Look at inverter data (this shows whether the system is producing power)
+
+->Compare yesterday to today
+
+->Look for full site outages (everything is offline) or late starts (power didn't start before 9:00 AM)
+
+-------------------------------------------------------------------------------------
+
+When to Create a Ticket:
+
+✅ Create a ticket if:
+
+The entire site is offline
+
+The whole site started late (after 9:00 AM)
+
+🚫 Don't create a ticket for:
+
+A group of inverters (like a transformer) being offline — just notify the Mitchell team on Slack
+
+Issues that fix themselves the same day
+
+-------------------------------------------------------------------------------------
+
+Fronius Sites (Special Rule):
+
+These specific sites need special attention:
+
+Burgaw, Ennis, Traveller, Little Mountain, Pecan Grove, Suncaster, Catherine Lake, Swansboro
+
+For these sites, only ticket full site outages or full site late starts
+
+If just one inverter is out, no ticket needed
+
+-------------------------------------------------------------------------------------
+PowerFactors Sites:
+
+Check these projects:
+
+Olympos – Lane II, Tate, Eagle, Willard, Benson, Pilot Mountain
+
+CCR Smart (Hawk) – Fairhaven E, Charlemont A
+
+Osprey – Town of Amherst Solar, Huxley, Beacon
+
+If a critical issue shows up but no email or DEPCOM ticket is made:
+
+Follow the email steps in the Outage Notification Procedures
+
+
+-------------------------------------------------------------------------------------
+Special Site Instructions:
+
+Harts Mill, BT Kellam, Concho Valley, Corazon, Spofford (Boxford), etc. – Just click the links and check that inverters are online
+
+For Spofford: go to the “Detailed Analytics” tab and make sure no zones are offline
+
+Brazoria: has 4 different feeders. Check each one using the links
+
+Revolution: check the Monitoring Inbox (you should have access to this or a guide in the procedures)
+
+-------------------------------------------------------------------------------------
+
+Mitchell 1 Site – What You Need to Do
+
+Dashboard Link:
+
+Mitchell 1 Redash
+
+✅ How to Handle Mitchell Site Issues
+
+1.Only create a ticket if:
+
+->The entire site is offline
+
+->The whole site starts late (after 9:00 AM)
+
+2.If a full transformer (about 69 inverters) is offline:
+
+->❌ Do NOT create a ticket
+
+->Send a message to the Mitchell team in Slack
+
+---------------------------------------------------------
+
+Special Rule for Fronius Sites Only:
+
+These are the Fronius sites:
+
+Burgaw,Ennis,Traveller,Little Mountain,Pecan Grove,Suncaster,Catherine Lake,Swansboro
+
+For these sites:
+
+Only ticket for full site outages or late starts
+
+Ignore small inverter issues — no ticket or message needed
+
+For All Other Mitchell Sites:
+
+If an inverter alert shows up in AlertOps
+→ Create a ticket as usual
