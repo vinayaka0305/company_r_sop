@@ -1,0 +1,35 @@
+What is AlertOps?
+It's a tool (like a website) your team uses to keep track of any problems or alarms from your solar systems or related equipment.
+
+What do you need to do?
+
+1.Go to AlertOps:
+   - Open a link provided by company
+
+2. Set the Filters:
+   - At the top of the page:
+     - Change Alert Type to ALL
+     - Change Time Period to Last 7 Days
+     - The system should automatically show only Open alerts (these are problems that are still happening or not fixed yet)
+
+3. Make It Easier to View:
+   - Scroll down to the bottom of the page.
+   - Change the Rows per page setting to 100 — this helps you see more alerts on one page and makes it quicker to manage them.
+
+What to do with the alerts?
+
+4. Check for Open Alerts:
+   - Look for alerts from the past 7 days — this helps you catch any issues that happened overnight or earlier in the week.
+
+5. Investigate the Alerts:
+   - Find out what caused the alert.
+   - If it’s something that needs a ticket (a request for action or fix), create that ticket.
+
+6. Close the Alert:
+   - After you've made the ticket (if needed), go back to AlertOps and close the alert — this shows that it's been handled.
+
+7. Keep an Eye on AlertOps During the Day:
+   - Keep AlertOps open on your screen.
+   - Check it now and then to catch any new alerts that pop up.
+   - Handle them the same way — investigate, make a ticket if needed, and close the alert.
+
