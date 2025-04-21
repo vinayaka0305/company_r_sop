@@ -43,6 +43,7 @@ These alerts still need to be monitored for anything new, but most are already t
  🔧 Solarenewal Portfolio  
  🛠️ Tracker issues: Already ticketed – ✅ clear alerts, no need to check DAS.
 
+
  ⚠️ Meter power check:  
   ✅ Ignore short, low irradiance mismatch alerts – they don’t need tickets.
 
@@ -76,3 +77,12 @@ If there’s a comms issue, it means the system can’t see or talk to that devi
 So, recurring comms = the device keeps losing connection over and over — but it usually comes back online by itself.
 
 These are known issues and already being tracked, so no need to ticket again unless something new happens.
+
+
+DAS stands for Data Acquisition System(DAS).
+
+In solar (and other energy systems), the DAS is like the “hub” or “middleman” that collects performance data from things like:
+
+Inverters,Meters,Weather stations,Other field equipment
+
+Then it sends that data to the monitoring platform so you can see how the site is doing.
