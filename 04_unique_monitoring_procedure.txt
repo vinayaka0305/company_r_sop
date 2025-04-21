@@ -1,0 +1,75 @@
+Unique Monitoring Procedures for your daily tasks:
+
+🔧 Unique Monitoring Procedures (Simplified)
+
+📍 Mitchell I & Mitchell II (Fronius Sites - Suncaster, Catherine Lake, Swansboro)  
+- ✅ Only ticket full site outages  
+- 📧 Send external outage email even if the outage is resolved  
+- 🕘 Don’t ticket late starts if the site starts producing before 9:00 AM
+
+
+📍 38DN - ISM Dighton Solar 2  
+- ⚙️ Inverters are modular – some may not turn on if sunlight is low  
+- 📩 Check 38DN inbox or Ameresco Daily Report  
+- ❌ If there's no outage note, don’t create a ticket
+
+
+📍 Content Solar  
+- ❌ Don’t ticket anything  
+- 💬 Only notify Heather in Slack channel `content_jamaica` if outages are sustained
+
+
+📍 Curtailment (All Sites)  
+- ❌ Don’t ticket any curtailment events
+
+
+📍 Idemitsu  
+- 🕗 Check in the morning, but only ticket outages that happened yesterday  
+- ✅ Ticket for:
+  - Full site outages
+  - Inverter outages that last 4+ hours (must include both production + communication)
+  - Derates lasting 4+ hours
+- ❌ Don’t ticket:
+  - Same-day outages
+  - Inverter late starts (if they start within 4 hours of site startup)
+  - Intermittent outages
+- ⚠️ Don’t use Generic Inverter asset – use individual inverter only
+
+
+📍 Taygete  
+- ✅ Ticket:
+  - Full site outages
+  - Inverter outages lasting 1+ hour
+- ❌ Don’t ticket:
+  - Resolved outages under 1 hour
+  - Inverter late starts (before 9:00 AM)
+  - Inverter derates
+- 🔁 If an inverter goes offline, comes back, and drops again within 2 days:
+  - Make one intermittent outage ticket
+  - Keep the ticket open for future dropouts
+- ⚠️ Use individual inverter, not Generic Inverter
+
+
+📍 West Texas  
+- ✅ Ticket:
+  - Full site outages
+  - Inverter outages lasting 1+ hour
+- ❌ Don’t ticket:
+  - Resolved outages under 1 hour
+  - Late starts (before 9:00 AM)
+  - Derates
+- 🔁 If the inverter drops twice within 2 days, create one intermittent ticket
+- ⚠️ Use individual inverters only, not Generic
+
+
+📍 Osprey Portfolio & Charlemont  
+- ⚠️ Discharging may look like outages
+- ✅ Only ticket:
+  - Inverter outages lasting more than 4 hours
+  - Sitewide outages (if the site has only one inverter)
+  - Or if there's a Work Order (WO) from O&M
+
+📍 Harts Mill (3 Sites)  
+- 🛠️ If 2+ inverters are out at once:
+  - Make one ticket at Generic Inverter
+  - Enter number of inverters in "Quantity of Equipment Impacted"
