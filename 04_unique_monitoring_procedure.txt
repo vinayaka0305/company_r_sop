@@ -71,5 +71,16 @@ Unique Monitoring Procedures for your daily tasks:
 
 📍 Harts Mill (3 Sites)  
 - 🛠️ If 2+ inverters are out at once:
-  - Make one ticket at Generic Inverter
-  - Enter number of inverters in "Quantity of Equipment Impacted"
+- Make one ticket at Generic Inverter
+- Enter number of inverters in "Quantity of Equipment Impacted"
+
+⚡ Revolution Site – Easy Monitoring Instructions
+🟡 General Info:
+❌ No data available for the first few months – just use the monitoring inbox.
+
+✅ Check: Spearmint → Revolution inbox for issues.
+
+🕐 Do this twice a day:
+🔍 Look for ROC emails (they’ll have the outage info)
+
+📬 Open tickets based on those emails
