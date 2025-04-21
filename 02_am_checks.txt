@@ -1,0 +1,61 @@
+Sure! Here’s a simplified and easy-to-understand version of your AM & PM Checks Daily SOP:
+
+☀️ AM & PM Monitoring Checks (12:00 PM EST)
+
+🌩️ 1. Weather Check
+
+- Go to Google Earth and check for any storms that might affect your sites.
+- Follow the storm procedure and send a notification, even if it’s the same storm as yesterday.  
+
+🌞 2. Content Solar - Green Power Monitoring
+
+- Link: Provided by company
+- Go to:  
+  `Content Solar → Custom Queries → Monitoring Inverters → (click green graph icon)`
+- Change view to Table (top right).
+- Check if all devices show data.
+- If any inverter has a long outage, send message in Slack - content_jamaica.
+- Don’t ticket for:
+  - Late starts (if resolved)
+  - Issues fixed the same day
+
+📊 3. Check Redash Dashboards
+Visit the following Redash dashboards for different sites and review inverter data from yesterday to now. Look for missing data or outages.
+
+Here are some key dashboards to check:
+
+- Central 40: [Link](https://analytics.radiangen.com/dashboard/central-40-inverter-charting-hourly-?p_start_day=d_yesterday&p_end_day=d_now)
+- Luciana, Pioneer, Mustang II, Milford, Phoenix, Coniglio
+- Concho Valley, Harts Mill, BT Kellam, Truman, Hertford, Corazon
+- Innovative Sites (67, 54), Buckleberry, Brantley, Fox Creek
+- Taygete, West Texas, Galloway 2, Cutlass II
+- Euryalus, Altona, EARP, Arava (Sunray)
+- Brazoria (Feeder 1 to 4)
+- Elara: [Link](https://analytics.radiangen.com/dashboard/elara-inverter-charting?p_project=132110&p_start_day=d_yesterday&p_end_day=d_now&p_client_id=127&p_duration_min=5)
+
+If there’s an issue:
+
+- Confirm if it's already resolved
+- Create tickets only if needed, based on SOP rules
+
+🧠 4. PowerFactors Sites
+Link: [PowerFactors Drive](https://drive.powerfactorscorp.com/)
+
+- Check if there are critical tickets for:
+  - Olympos (Lane II, Tate, Eagle, Willard, Benson, Pilot Mountain)
+  - CCR Smart (Fairhaven E, Charlemont A)
+  - Osprey (Town of Amherst Solar, Huxley, Beacon)
+- If there's a new outage without notification, follow outage email steps.
+
+🔍 5. Spofford (Boxford)
+
+- Link: [Lens View](https://lens.radiangen.com//entity/projects/view/131598) and [SolrenView](https://www.solrenview.com/SolrenView/mainFr.php?siteId=4572)
+- Go to Detailed Analytics
+- Make sure no zones are offline
+- Check yesterday’s data too
+- Ticket any missing or offline zones if needed
+
+⚡ 6. Revolution
+
+- Check Monitoring Inbox
+- Follow the rules in Unique Monitoring Procedures for when to ticket
