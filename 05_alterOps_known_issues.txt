@@ -1,0 +1,78 @@
+⚠️ AlertOps – Known Issues  
+These alerts still need to be monitored for anything new, but most are already ticketed or known, so usually no need to ticket again unless something *new or different shows up.
+
+
+ 🌤️ Albedo (Michigan Portfolio)  
+ 🔁 Gamechange Tracker alerts: Happen daily at multiple sites.  
+  ❌ No ticket needed for now – tracking process being reviewed.
+
+ ⚡ Sungrow inverter alerts:  
+  ❌ Ignore if it’s just a late start.
+
+ 🌞 Athol Solar Holdings  
+ ⚠️ Inverter 5 – intermittent comms:  
+  ✅ Already ticketed – just confirm it’s producing.
+
+ 🛠️ All inverters – insulation resistance low errors:  
+  🔄 Causes late starts/fullday loss.  
+  ✅ Add a comment to existing Intermittent Outage ticket – don’t make a new one.  
+  💡 If it’s a different alert, then create a new ticket.
+
+ ⚡ NC Solar I  
+ 🔁 Elkor Meters 1A & 2A: Keep losing comms.  
+ ⚡ Meter 2A: Current mismatch alerts too.  
+  ✅ Already ticketed – no action needed.
+
+ ⚡ NC Solar II  
+ 🔁 Recurring comms alerts for:
+   WebBox  
+   Meters A, B, C  
+   Inverters B, C, D  
+   Obvius Gateway  
+  ✅ Do not ticket – Chris confirmed it’s all known issues.
+
+ ☀️ 2081 Terzian  
+ 🌧️ Weather Station Alerts (Lufft WS601UMB, CMP3):  
+  ✅ Already ticketed – no need to repeat.
+
+ 🏢 2125 Jarvis  
+ 🔌 Meter/data logger comms alerts:  
+  ✅ Already covered by tickets.
+
+
+ 🔧 Solarenewal Portfolio  
+ 🛠️ Tracker issues: Already ticketed – ✅ clear alerts, no need to check DAS.
+
+ ⚠️ Meter power check:  
+  ✅ Ignore short, low irradiance mismatch alerts – they don’t need tickets.
+
+ 📉 Performance Low/Index alerts:  
+  ✅ Only ticket if it's inverterrelated.  
+  ❌ If not inverterrelated, no ticket.
+
+
+ 🏭 Hawthorne CAT HQ  
+ 🌙 Inverter comms alerts overnight (autoresolve before morning):  
+  ✅ No ticket needed – it’s a known issue.
+
+ 🌐 BT Kellam  
+ 🔁 Sitewide comms issues:  
+  ✅ Already ticketed – no need to do anything new.
+
+ 🏛️ Town of Brookhaven Town Hall (Rooftop)  
+ ⚡ AC Disconnected alerts on inverters (brief, autoresolve in AM):  
+  ✅ Known issue – only ticket if an inverter stays offline.
+
+
+"Comms" = short for communications.
+
+It means how devices (like inverters, meters, gateways) send data to the monitoring system.
+
+If there’s a comms issue, it means the system can’t see or talk to that device properly.
+
+🔁 What are "recurring comms"?
+"Recurring" = happening again and again.
+
+So, recurring comms = the device keeps losing connection over and over — but it usually comes back online by itself.
+
+These are known issues and already being tracked, so no need to ticket again unless something new happens.
