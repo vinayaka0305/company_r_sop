@@ -1,0 +1,23 @@
+Radian is a Secondary Monitor.
+
+That means we’re like a backup checker.
+
+🔧 The Primary Monitor (usually the O&M provider) is the main team in charge. They’re supposed to:
+
+* Catch any issues
+
+* Create tickets
+
+* Fix things quickly (based on the contract)
+
+* Help with remote troubleshooting
+
+-> As the Secondary Monitor, our job is to:
+
+* Double-check everything
+
+* Make sure all problems are getting caught and ticketed
+
+* Make sure the Primary Monitor is doing their job on time
+
+✅ So basically, we watch both the sites and the Primary Monitor to make sure everything runs smoothly.

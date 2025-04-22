@@ -1,0 +1,17 @@
+This guide is for the Radian TAM team.
+
+It shows how to do daily monitoring, including:
+
+🕒 When to check
+
+📍 Where to check
+
+🔍 What to look for
+
+🚨 How to handle real-time alarms
+
+🎫 How to make tickets
+
+📢 When to send outage notifications
+
+It’s your daily checklist for keeping solar sites running smoothly!

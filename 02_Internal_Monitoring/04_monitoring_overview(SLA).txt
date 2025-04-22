@@ -1,0 +1,33 @@
+📋 Monitoring Overview: What Are SLAs?->
+
+SLA = Service Level Agreement
+It’s just a fancy word for a contract that says how fast and how well someone should respond to problems.
+
+🛠️ For Radian (us):
+We’re the Secondary Monitor, so we don’t have our own SLA for ticketing or monitoring.
+
+👷‍♂️ For the Primary Monitor (main team):
+They do have SLAs in their contract with the site owner. That means they have to:
+
+Act within a certain amount of time when something goes wrong
+
+Fix things properly
+
+Sometimes they can earn bonuses for doing well or get penalties if they don’t
+
+📊 SLAs also help us decide which projects need more attention, based on how important or time-sensitive they are. (More on that in the Monitoring Priority section.)
+
+---------------------------------------------------------------------------------
+
+📈 SLA Monitoring KPI Tracking->
+We keep track of how fast the Primary Monitor (the main team) sends out alerts when something goes wrong. This helps us measure their performance, which is called KPI tracking (Key Performance Indicator).
+
+🧾 How do we track it?
+If another company (not Radian) is the Primary Monitor, we record the time they sent us an email alert about an issue. We do this inside the ticket we create for that problem.
+
+🗂️ Where do you put the time?
+At the bottom of the ticket page, there’s a section called “Custom Fields.”
+Just enter the date and time the alert email was received.
+
+📝 Note:
+This is only needed for certain portfolios (groups of sites). If you need to do it, it will say so in the specific SOP for that portfolio.

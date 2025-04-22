@@ -1,0 +1,11 @@
+This guide explains how to check on solar sites to make sure everything is working properly.
+
+If something is broken, not sending data, or not performing well, this tells you:
+
+What to look for
+
+Who to tell
+
+What to write down
+
+It helps everyone stay on the same page and fix problems fast.
