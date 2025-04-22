@@ -1,0 +1,15 @@
+Monitoring Tools – Simple Overview
+
+At Radian, we use different tools to check if the solar sites and equipment are working properly or if there are any issues like no power, no data, or low performance.
+
+Here are the main tools we use every day or week:
+
+->Lens – Our main platform to see site data and create tickets.
+
+->DAS (Data Acquisition Systems) – These are systems at each site that collect and send data from the equipment.
+
+->Redash Analytics – We use this to look at graphs and data trends to spot problems.
+
+->AlertOps – Sends us alerts when something might be wrong.
+
+->Google Earth – We use this to check for storms or hurricanes that might affect our sites.

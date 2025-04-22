@@ -1,0 +1,55 @@
+AlertOps -->
+
+What is AlertOps?
+AlertOps is a tool we use to get alerts when something might be wrong at one of our solar sites.
+
+It brings together alerts from different monitoring systems (called DAS) and shows them to us in one place — on the AlertOps website, by email, text messages, and the phone app (for iPhone/Android).
+
+What Should You Do?
+
+->Keep AlertOps open on your screen.
+
+->Check it in the morning (including alerts from overnight).
+
+->Keep checking it throughout the day for new alarms.
+
+Where Do the Alarms Come From?
+
+AlertOps receives alarms from different places:
+
+1. DAS Alarms
+These are alarms set up in the DAS systems (the systems at the sites). They warn us about:
+
+->No power being produced (zero generation)
+
+->Low performance
+
+->Communication problems
+
+->Equipment issues (like hardware faults)
+
+If you get one of these alarms, you should open the DAS system and check if there's a real problem.
+
+2. Email Forwarding:
+Some alarms come through emails that are automatically forwarded to AlertOps.
+
+3. iAlert:
+This is another way some systems send alarms into AlertOps.
+
+So basically, AlertOps is our alarm center — and your job is to watch it regularly and follow up on anything that looks like an issue.
+
+
+DAS = Data Acquisition System
+In simple terms, a DAS is the system that collects data from the solar site. It watches things like:
+
+->How much energy the solar site is producing
+
+->If equipment is working properly
+
+->If there's any communication issue (like the system not reporting data)
+
+You can think of DAS like a "security camera," but instead of watching video, it watches site performance and equipment health 24/7.
+
+The DAS sends alerts to tools like AlertOps when something seems wrong — like if power drops to zero, an inverter stops working, or the system goes quiet.
+
+Some common DAS platforms include AlsoEnergy, PowerTrack, Fronius, and others.
