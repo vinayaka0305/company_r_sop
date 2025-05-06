@@ -1,0 +1,100 @@
+🔎 Monitoring Setup:
+* Monitoring Inbox: Ashtrom -> Tierra Bonita
+* Lens Portfolio Link: [View in Lens]
+    (https://lens.radiangen.com//entity/projects/view/133228)
+* O\&M Provider: Origis
+* Data Connection Type: Transport Lite
+* DAS: N/A (SCADA Site, can chart in Redash)
+
+---
+
+ 🚦 Outage Priorities & Required Actions:
+
+ 🔹 Low Priority:
+
+* Outage Size: Less than 400 kW
+* Example: Strings or PV Array DC Disconnect
+* Report By: Within 24 hours
+* Ticket Updates: Once per week
+
+ 🔸 Medium Priority:
+
+* Outage Size: 400 – 3600 kW
+* Example: Multiple DC Disconnects or Partial Inverter Outage
+* Report By: Within 16 hours
+* Ticket Updates: Every 48 hours
+
+ 🔺 High Priority:
+
+* Outage Size: 3600 – 30,000 kW
+* Example: Inverter – MV AC Circuit Outage
+* Report By: Within 8 hours
+* Ticket Updates: Every 24 hours
+
+ 🔴 Critical Priority:
+
+* Outage Size: Over 30,000 kW
+* Example: Partial to Total Site Outage
+* Report By: Immediately
+* Ticket Updates: Every 6 hours
+
+---
+
+⚠️ Important Note:
+
+* Lens “Notify Outage via Email”: Not used for this project.
+* Internal Notifications: Use internal tools like Slack for notifications.
+
+---
+
+ 📩 Communication Outage Instructions:
+
+* If a site-level communication outage is active or all inverters lose communications, send an email to [radian-greenit@radiangen.com](mailto:radian-greenit@radiangen.com).
+
+  * Subject: "Ashtrom - Tierra Bonita Communications Outage"
+  * Body: "Ashtrom Tierra Bonita Communications Outage. Please investigate."
+  * Add any additional details as available.
+
+* CC the following people:
+
+  * The Asset Manager, Portfolio Associate, Technical Lead, and Specialist as listed on the Lens project page.
+  * [TierraBonita.PM@radiangen.com](mailto:TierraBonita.PM@radiangen.com) email address.
+
+---
+
+ 🗂️ Project Details:
+
+| Project Name | DC Rating (kW) | City | State |
+| ---------------- | ------------------ | -------- | --------- |
+| Tierra Bonita    | 398,000            | Girvin   | TX        |
+
+---
+
+ 🔑 Key Contacts:
+
+ Origis Operations Center:
+
+* AROC: [aroc@origisservices.com](mailto:aroc@origisservices.com)
+* Tierra Bonita ROC: [tierrabonita-roc@origisenergy.com](mailto:tierrabonita-roc@origisenergy.com)
+
+ Site Team Contacts:
+
+* Field Operations: [fieldoperations@origisenergy.com](mailto:fieldoperations@origisenergy.com)
+* Randall Hampton (Area Manager): [randall.hampton@origisservices.com](mailto:randall.hampton@origisservices.com)
+* Valeriy Lyulya (Key Account Manager): [valeriy.lyulya@origisservices.com](mailto:valeriy.lyulya@origisservices.com)
+* Joshua Benavides (Site Supervisor): [joshua.benavides@origisservices.com](mailto:joshua.benavides@origisservices.com)
+
+ Ulteig (SCADA / Networking):
+
+* Artur Winiarek (SCADA Engineer): [artur.winiarek@ulteig.com](mailto:artur.winiarek@ulteig.com) (PPC-related questions)
+* Alex Suan (Network & Systems Admin): [alex.suan@ulteig.com](mailto:alex.suan@ulteig.com) (Networking/Data issues)
+* Juan Ramirez (Senior Electrical Engineer, Mortenson): [juan.ramirez1@mortenson.com](mailto:juan.ramirez1@mortenson.com) (Data setup questions)
+
+ Critical Outages Contacts:
+
+* Brandon Manley (Ashtrom Asset Manager): [brandonm@ashtrom.co.il](mailto:brandonm@ashtrom.co.il)
+* Zahi Harel (Ashtrom Managing Director): [zahih@ashtrom.co.il](mailto:zahih@ashtrom.co.il)
+* Yael Avner (Ashtrom COO): [yaelav@ashtrom.co.il](mailto:yaelav@ashtrom.co.il)
+* Tierra Bonita ROC: [tierrabonita-roc@origisenergy.com](mailto:tierrabonita-roc@origisenergy.com)
+* Joshua Benavides (Site Supervisor): [joshua.benavides@origisservices.com](mailto:joshua.benavides@origisservices.com)
+* [TierraBonita.PM@radiangen.com](mailto:TierraBonita.PM@radiangen.com)

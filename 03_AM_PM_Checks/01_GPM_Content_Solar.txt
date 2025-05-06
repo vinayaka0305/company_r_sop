@@ -1,0 +1,30 @@
+What You Need to Do:
+
+1. Go to this website:
+   [https://gpmportal.greenpowermonitor.com/application//portfolio/dashboard]
+
+2. Click on "Content Solar".
+
+3. Go to "Custom Queries".
+
+4. Click on "Monitoring Inverters".
+   (Look for a small green graph icon on the right and click it.)
+
+5. Switch the view to "Table":
+   In the top-right corner of the chart, click “Table”.
+
+6. Open the data fully:
+   Expand the table to see all devices.
+
+7. Check if each device has data.
+   If some devices have no data or data has stopped for a long time, that may be a problem.
+
+
+ What to Report:
+
+* If an inverter has stopped working for a long time, send a message to the content\_jamaica channel on Slack.
+
+* Do NOT send a message for:
+
+  * Inverters that started late but are now working.
+  * Inverters that stopped and then fixed themselves on the same day.

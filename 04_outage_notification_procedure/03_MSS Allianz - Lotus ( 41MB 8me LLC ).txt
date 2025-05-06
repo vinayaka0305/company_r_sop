@@ -1,0 +1,84 @@
+📋 What To Do for Allianz – Lotus
+
+🔎 Monitoring System:
+
+* Monitoring Inbox: Go to Allianz → Lotus
+* Lens Project Link: [View Project in Lens]
+    (https://lens.radiangen.com/#/entity/projects/view/131489)
+* DAS Systems: Green Power Monitoring & Redash
+  [View Redash Dashboard]
+    (https://analytics.radiangen.com/dashboard/lotus-inverter-charting?p_project=131489&p_start_day=d_yesterday&p_end_day=d_now)
+* O\&M Provider: SOLV Energy
+* Project Name: Lotus (41MB 8ME LLC)
+* System Size: 67,778 kW DC
+* Location: Madera, California 93636
+
+---
+
+🚦 Outage Priority Levels & What They Mean:
+
+ 🔹 Low Priority
+
+* Outage Size: Less than 300 kW
+* Affected Equipment: Strings or Combiner Boxes
+
+ 🔸 Medium Priority
+
+* Outage Size: 300 to 1,000 kW
+* Affected Equipment: Inverter Submodules
+
+ 🔺 High Priority
+
+* Outage Size: 1,000 to 15,000 kW
+* Affected Equipment: Full Inverter or AC Feeder
+
+ 🔴 Critical Priority
+
+* Outage Size: More than 15,000 kW
+* Affected Equipment: Partial or total site outage
+* Action Required:
+
+*If there's no work order or notification in Lens,
+send a Lens “Notify Outage via Email” alert.
+
+---
+
+📧 Communication Outage Alert
+
+If:
+
+* The entire site loses communication, or
+* All inverters stop sending data
+
+Send an email with this format:
+
+* To: `radian-greenit@radiangen.com`
+* Subject: `Allianz - Lotus Communications Outage`
+* Body:
+
+  ```
+  Allianz - Lotus Communications Outage. Please investigate.
+  (Add more details if available.)
+  ```
+* CC:
+
+  * Asset Manager
+  * Portfolio Associate
+  * Technical Lead
+  * Technical Specialist
+    *(Find these on the Lens project page)*
+  * `Allianz.PM@radiangen.com`
+
+---
+
+🔧 Key Contacts (SOLV & Owner):
+
+* SOLV OCC: `solvocc@solvenergy.com`
+* Regional Lead (Dwayne Bostic):
+  `dwayne.bostic@solvenergy.com` – 858.377.5768
+* Account Rep (Matthew Contreras):
+  `matthew.contreras@solvenergy.com`
+* Owner (Patrick Schenck):
+  `patrick.schenck@allianzcapitalpartners.com`
+* Owner (Christian Breitmann):
+  `christian.breitmann@allianzcapitalpartners.com`

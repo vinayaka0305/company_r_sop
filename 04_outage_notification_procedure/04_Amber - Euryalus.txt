@@ -1,0 +1,61 @@
+📋 What To Do for Amber – Euryalus
+
+ 🔎 Monitoring Setup:
+
+* Monitoring Inbox: Amber → Euryalus
+* Lens Portfolio Link: [View in Lens]
+    (https://lens.radiangen.com//entity/portfolios/view/456)
+* DAS System: None (SCADA site – use Redash for charting)
+* O\&M Provider: DEPCOM
+
+---
+
+ 🚦 Outage Priorities & Required Actions:
+
+ 🔹 Low Priority
+
+* Outage Size: Less than 100 kW
+* Example: String outage
+* Report Within: 24 hours
+* Ticket Updates: Once per week
+
+---
+
+ 🔸 Medium Priority
+
+* Outage Size: 100 – 250 kW
+* Example: Combiner box outage
+* Report Within: 12 hours
+* Ticket Updates: Every 48 hours
+
+---
+
+ 🔺 High Priority
+
+* Outage Size: 250 – 500 kW
+* Example: Partial inverter outage
+* Report Within: 6 hours
+* Ticket Updates: Every 24 hours
+
+---
+
+ 🔴 Critical Priority
+
+* Outage Size: Over 500 kW
+* Example: Partial or full site outage
+* Report: Immediately — direct notification required
+* Ticket Updates: Every 6 hours
+
+⚠️Action: If no work order or notification from O&M appears in Lens, 
+    use Lens “Notify Outage via Email.”
+
+---
+
+ 🔧 Projects Under Amber – Euryalus:
+
+| Project Name | Size (kW DC) | City  | State |
+| ---------------- | ---------------- | --------- | --------- |
+| Alkali           | 15,137           | Fort Rock | Oregon    |
+| Rock Garden      | 14,929           | Fort Rock | Oregon    |
+| Suntex           | 15,344           | Riley     | Oregon    |
+| West Hines       | 15,344           | Hines     | Oregon    |

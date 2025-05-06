@@ -1,0 +1,165 @@
+📋 What To Do for Amber – Olympos
+
+ 🔎 Monitoring Setup:
+
+*Monitoring Inbox: Amber → Olympos
+*Lens Portfolio Link: [View in Lens]
+    (https://lens.radiangen.com//entity/portfolios/view/438)
+*O\&M Provider: CCR
+*DAS: PowerFactors
+
+---
+
+🚦 Outage Priorities & Required Actions:
+
+ 🔹Low Priority
+
+*Outage Size: Less than 150 kW
+*Example Equipment: Combiner Box, String Inverter, or Tracker
+*Report By:
+  *String Inverters: Within 24 hours
+  *Combiners: Upon notification from O\&M
+*Ticket Updates: Once per week
+
+---
+
+ 🔸Medium Priority
+
+*Outage Size: 150–1,500 kW
+*Example Equipment: Multiple Combiners or AC Distribution Panel
+*Report By: Same day
+*Ticket Updates: Every 48 hours
+
+---
+
+ 🔺High Priority
+
+*Outage Size: 1,500–2,500 kW
+*Example Equipment: Central Inverter
+*Report By: Within 4 hours
+*Ticket Updates: Every 24 hours
+
+---
+
+ 🔴Critical Priority
+
+*Outage Size: More than 2,500 kW
+*Example Equipment: Partial or total site outage (varies by project)
+*Report: Immediately – direct notification required
+*Ticket Updates: Every 6 hours
+
+⚠️Action: If there isno work order or notification in the monitoring inbox,
+ useLens “Notify Outage via Email.”
+
+---
+
+📧 Weekend Critical Priority Communication:
+
+If a Critical Priority outage occurs over the weekend with no notification from O&M:
+
+1.Send an email with the following details:
+
+   *To: `3p@ccrenew.com`
+   *CC:
+
+     * `bhaumik.patel@ccrenew.com`
+     * `kayla.runyan@ccrenew.com`
+     * Technical Lead
+     * Technical Specialist
+     * Portfolio Manager
+     * `Pm.olympos@radiangen.com`
+     * `monitoring@radiangen.com`
+
+Sure! Here's the Amber – Olympos procedure updated to include the sample message from the email as a template for Critical Priority outage notifications:
+
+---
+
+### 📋 What To Do for Amber – Olympos
+
+#### 🔎 Monitoring Setup:
+
+* Monitoring Inbox: Amber → Olympos
+* Lens Portfolio Link: [View in Lens](https://lens.radiangen.com/#/entity/portfolios/view/438)
+* O\&M Provider: CCR
+* DAS: PowerFactors
+
+---
+
+### 🚦 Outage Priorities & Required Actions:
+
+#### 🔹 Low Priority
+
+* Outage Size: Less than 150 kW
+* Example Equipment: Combiner Box, String Inverter, or Tracker
+* Report By:
+
+  * String Inverters: Within 24 hours
+  * Combiners: Upon notification from O\&M
+* Ticket Updates: Once per week
+
+---
+
+#### 🔸 Medium Priority
+
+* Outage Size: 150–1,500 kW
+* Example Equipment: Multiple Combiners or AC Distribution Panel
+* Report By: Same day
+* Ticket Updates: Every 48 hours
+
+---
+
+#### 🔺 High Priority
+
+* Outage Size: 1,500–2,500 kW
+* Example Equipment: Central Inverter
+* Report By: Within 4 hours
+* Ticket Updates: Every 24 hours
+
+---
+
+#### 🔴 Critical Priority
+
+* Outage Size: Over 2,500 kW
+* Example Equipment: Partial or total site outage (varies by project)
+* Report: Immediately – direct notification required
+* Ticket Updates: Every 6 hours
+* ⚠️ Action: Use Lens “Notify Outage via Email” if no work order or notification is found in the monitoring inbox.
+
+---
+
+### 📧 Weekend Critical Priority Communication:
+
+If a Critical Priority outage happens over the weekend and no work order is received:
+
+1. Send an email to:
+
+   * To: `3p@ccrenew.com`
+   * CC:
+
+     * `bhaumik.patel@ccrenew.com`
+     * `kayla.runyan@ccrenew.com`
+     * Technical Lead
+     * Technical Specialist
+     * Portfolio Manager
+     * `Pm.olympos@radiangen.com`
+     * `monitoring@radiangen.com`
+
+2. Email Format – Use this Template:
+
+   *Example:*
+
+   ```
+   Hi Kayla,
+
+   County Home went offline at 7:05 PM last night. We didn't receive a work order for this.  
+   Can CCR please look into this right away?
+
+   Thanks,  
+   Michael Perez  
+   Radian Generation
+
+🔧 Contacts:
+
+*Technical Team: Check Lens Portfolio for contacts
+*Portfolio Manager: Include them in the CC line
+*O\&M Provider: CCR

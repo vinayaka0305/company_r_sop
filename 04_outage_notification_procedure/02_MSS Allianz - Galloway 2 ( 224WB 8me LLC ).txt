@@ -1,0 +1,83 @@
+📋 What To Do for Galloway 2 (Allianz)
+
+🔎 Monitoring System:
+
+* Monitoring Inbox: Go to Allianz → Galloway 2
+* Lens Project Link: [View Project in Lens]
+(https://lens.radiangen.com//entity/projects/view/133035)
+* Data System (DAS): Redash
+* O\&M Provider: SOLV Energy
+* Project Name: Galloway 2
+* System Size: 146,620 kW DC
+* Location: Paint Rock, Texas
+
+---
+
+🚦 Outage Priority Levels & What They Mean:
+
+🔹 Low Priority
+
+* Outage Size: Less than 600 kW
+* Affected Equipment: Strings or Combiner Boxes
+
+🔸 Medium Priority
+
+* Outage Size: 600 to 3,350 kW
+* Affected Equipment: Inverter Submodules
+
+🔺 High Priority
+
+* Outage Size: 3,350 to 16,750 kW
+* Affected Equipment: Full Inverter or AC Feeder
+
+🔴 Critical Priority
+
+* Outage Size: More than 16,750 kW
+* Affected Equipment: Partial or full site outage
+* Action Required:
+
+*If there's no work order or notification from O&M in Lens,
+ use Lens “Notify Outage via Email”.
+
+---
+
+📧 Communication Outage Alert (Important!)
+
+If:
+
+* The whole site loses communication, OR
+* All inverters stop sending data
+
+Send an email with the following:
+
+* To: `radian-greenit@radiangen.com`
+
+* Subject Line: `Allianz - Galloway 2 Communications Outage`
+
+* Body Text:
+
+  ```
+  Allianz - Galloway 2 Communications Outage. Please investigate.
+  (Add any extra details here if available)
+  ```
+
+* CC:
+
+  * Asset Manager
+  * Portfolio Associate
+  * Technical Lead
+  * Technical Specialist
+    *(These contacts are listed on the Lens portfolio page)*
+  * `Galloway2.PM@radiangen.com`: email address
+
+---
+
+🔧 Key Contacts (SOLV Energy):
+
+* Operations Control Center: `solvocc@solvenergy.com`
+* Regional Lead (Dwayne Bostic):
+  `dwayne.bostic@solvenergy.com` – 858.377.5768
+* Account Rep (Rodney Mann):
+  `rodney.mann@solvenergy.com` – 760.215.2942
+* Owner (Vladimir Shifrin):
+  `vladimir.shifrin@allianzcapitalpartners.com`

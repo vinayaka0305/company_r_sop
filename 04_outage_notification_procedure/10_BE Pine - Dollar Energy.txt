@@ -1,0 +1,92 @@
+📩 Critical Priority Outage Notification:
+
+*Lens Notification: If there is a Critical Priority outage and there is no Work Order (WO) or notification from O\&M in the Monitoring inbox, you need to send a Lens notification.
+
+---
+
+ 📝 Monitoring, Ticketing, and O\&M Considerations:
+
+* The project is split into two parts, labeled BE Pine 1 and BE Pine 2 in PowerTrack.
+* These two phases are summed together in Lens to represent the project as a whole.
+
+---
+
+ ⚠️ What to Do for Outages:
+
+* For outages where there is no Work Order (WO) and it is validated in PowerTrack, you must notify:
+
+  * Dollar Energy
+  * QE Solar
+
+---
+
+ 🚦 Outage Priorities & Required Actions:
+
+ 🔹 Low Priority:
+
+* Outage Size: Less than 150 kW
+* Example: Combiner Box/String Inverter/Tracker
+* Lens Input Timing/Notification:
+
+  * String Inverters: 24 hours
+  * Combiners: Upon notification from O\&M
+* Ticket Updates: Once per week
+
+ 🔸 Medium Priority:
+
+* Outage Size: 150 – 1,500 kW
+* Example: Multiple Combiners/AC Distribution Panel
+* Lens Input Timing/Notification: Same Day
+* Ticket Updates: Every 48 hours
+
+ 🔺 High Priority:
+
+* Outage Size: 1,500 – 3,600 kW
+* Example: Central Inverter
+* Lens Input Timing/Notification: 4 hours
+* Ticket Updates: Every 24 hours
+
+ 🔴 Critical Priority:
+
+* Outage Size: Over 3,600 kW
+* Example: Partial or Total Site Outage (configuration varies by project)
+* Lens Input Timing/Notification: Immediately (and direct notification)
+* Ticket Updates: Every 6 hours
+
+---
+
+⚠️Ticket Update Requirements:
+
+* Ticket Update: The ticket should be updated continuously until the next steps or solution path is defined.
+
+---
+
+ 📂 Project Details:
+
+| Project Name | DC Rating (kW) | City  | State |
+| ---------------- | ------------------ | --------- | --------- |
+| BE Pine 1        | 48,631             | Hookstown | PA        |
+
+---
+
+ 📩 Key Contacts:
+
+ Dollar Energy Contacts:
+
+* Dollar Energy: (Contact details would be added here as available)
+
+ QE Solar Contacts:
+
+* QE Solar: (Contact details would be added here as available)
+
+ Monitoring Inbox: BE Pine
+
+---
+
+ 📂 Other Important Details:
+
+* Lens Portfolio Link: [View in Lens]
+    (https://lens.radiangen.com//entity/portfolios/view/806)
+* O\&M Provider: QE Solar
+* After Hours Support: TBD
+* DAS: PowerTrack

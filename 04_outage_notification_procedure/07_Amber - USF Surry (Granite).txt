@@ -1,0 +1,64 @@
+ 📋 What To Do for Amber – Surry / Granite
+
+ 🔎 Monitoring Setup:
+
+* Monitoring Inbox: Amber → Surry / Granite
+* Lens Portfolio Link: [View in Lens]
+    (https://lens.radiangen.com//entity/portfolios/view/424)
+* O\&M Provider: Carolina Solar Services
+* DAS: AlsoEnergy PowerTrack
+
+---
+
+ 🚦 Outage Priorities & Required Actions:
+
+ 🔹 Low Priority
+
+* Outage Size: Less than 100 kW
+* Example: String outage
+* Report By: Within 24 hours
+* Ticket Updates: Once per week
+
+---
+
+ 🔸 Medium Priority
+
+* Outage Size: 100–250 kW
+* Example: Combiner box outage
+* Report By: Within 12 hours
+* Ticket Updates: Every 48 hours
+
+---
+
+ 🔺 High Priority
+
+* Outage Size: 250–500 kW
+* Example: Partial inverter outage
+* Report By: Within 6 hours
+* Ticket Updates: Every 24 hours
+
+---
+
+ 🔴 Critical Priority
+
+* Outage Size: Over 500 kW
+* Example: Partial or total site outage
+* Report: Immediately – direct notification required
+* Ticket Updates: Every 6 hours
+⚠️ Action: If no work order or notification is found in the Monitoring Inbox,
+ use Lens “Notify Outage via Email”.
+
+---
+
+ 🔧 Project Details:
+
+| Project Name                                  | DC Size (kW) | City   | State      |
+| ------------------------------------------------- | ---------------- | ---------- | -------------- |
+| Faison Solar LLC                                  | 2,293.6          | Faison     | North Carolina |
+| Nitro Solar, LLC                                  | 6,222            | Smithfield | North Carolina |
+| ESA Princeton NC, LLC                             | 6,502.6          | Princeton  | North Carolina |
+| Sarah Solar, LLC                                  | 6,311            | Louisburg  | North Carolina |
+| ESA Four Oaks NC                                  | 6,501.99         | Four Oaks  | North Carolina |
+| North Carolina Solar I Lessee, LLC                | 2,479.26         | Laurinburg | North Carolina |
+| North Carolina Solar II Lessee, LLC (Progress II) | 2,479.26         | Laurinburg | North Carolina |
+| South Robeson Solar Farm, LLC                     | 6,344            | Rowland    | North Carolina |

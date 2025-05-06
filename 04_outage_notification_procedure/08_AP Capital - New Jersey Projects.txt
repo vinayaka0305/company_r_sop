@@ -1,0 +1,58 @@
+ 📋 What To Do for AP Capital – NJ
+
+ 🔎 Monitoring Setup:
+* Lens Portfolio Link: [View in Lens]
+    (https://lens.radiangen.com//entity/projects/view/82)
+* O\&M Provider: QE Solar
+* DAS: SunPower Energylink
+
+---
+
+ 🚦 Outage Priorities & Required Actions:
+
+ 🔹 Low Priority
+
+* Outage Size: Less than 50 kW
+* Example: String outage or multiple strings offline
+* Report By: Within 24 hours
+* Ticket Updates: Once per week
+
+---
+
+ 🔸 Medium Priority
+
+* Outage Size: 50–100 kW
+* Example: Combiner box outage
+* Report By: Within 16 hours
+* Ticket Updates: Every 48 hours
+
+---
+
+ 🔺 High Priority
+
+* Outage Size: 100–500 kW
+* Example: Inverter outage
+* Report By: Within 8 hours
+* Ticket Updates: Every 24 hours
+
+---
+
+ 🔴 Critical Priority
+
+* Outage Size: Over 500 kW
+* Example: Multiple inverters or full system outage
+* Report: Immediately
+* Ticket Updates: Every 6 hours
+
+⚠️ Important Note:
+
+* Lens “Notify Outage via Email” is not used for this project.
+* Only send internal notifications (e.g., Slack).
+
+---
+
+ 🗂️ Project Details:
+
+| Project Name                  | DC Rating (kW)     | City      | State  |
+| ----------------------------- | ------------------ | --------- | ---------- |
+| Jersey Gardens Mall – Phase 2 | 2,806              | Elizabeth | New Jersey |

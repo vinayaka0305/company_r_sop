@@ -1,0 +1,82 @@
+ What You Need To Do:
+
+1. Check Outages in Monitoring Systems
+
+* Use the Monitoring Inbox (38DN) and Lens system to watch for inverter or equipment outages.
+* Lens Portfolio Link: [Lens Portfolio for 38DN](https://lens.radiangen.com//entity/portfolios/view/269)
+
+---
+
+Here’s the Outage Priorities & What to Do section rewritten as clear bullet points:
+
+ 🔹 Low Priority
+
+* Outage Size: Less than 100 kW
+* Example: 1 or more strings offline
+* When to Report: Within 24 hours
+* Ticket Update Frequency: Once per week
+
+---
+
+ 🔸 Medium Priority
+
+* Outage Size: Between 100–250 kW
+* Example: Combiner or Inverter Sub Module outage
+* When to Report: Within 16 hours
+* Ticket Update Frequency: Every 48 hours
+
+---
+
+ 🔺 High Priority
+
+* Outage Size: Between 250–500 kW
+* Example: Full Inverter or DMGI outage
+* When to Report: Within 8 hours
+* Ticket Update Frequency: Every 24 hours
+
+---
+
+ 🔴 Critical Priority
+
+* Outage Size: Over 500 kW
+* Example: Multiple inverters or full system outage
+* When to Report: Immediately
+* Ticket Update Frequency: Every 6 hours
+
+---
+Email Notification Rule:
+
+If a Medium, High, or Critical outage doesn't show up in the Monitoring Inbox, use the Lens “Notify Outage via Email” tool to send an alert.
+
+---
+
+ Other Info:
+
+* O\&M Provider: Ameresco
+* DAS Systems: Locus / PowerTrack
+* Projects Under This Portfolio:
+  *(Each with city and solar size for reference)*
+
+| Project Name                  | DC Rating (kW)| City             | State     |
+| ----------------------------- | ------------- | ---------------- | --------- |
+| Barton Acres Solar, LLC       | 1411.2        | Phillipston      | MA        |
+| Blair Wire Village Solar, LLC | 1386.9        | Spencer          | MA        |
+| Cherry Valley Solar, LLC      | 1355.6        | Leicester        | MA        |
+| Cohasse Solar, LLC            | 1234.8        | Southbridge      | MA        |
+| Dudley River 1 Solar, LLC     | 1411.2        | Southbridge      | MA        |
+| Flint Road Solar, LLC         | 681.39        | Worcester        | MA        |
+| Incom Solar, LLC              | 3081.33       | Charlton         | MA        |
+| JH Solar, LLC                 | 1329.3        | North Brookfield | MA        |
+| St. Joseph's Solar, LLC       | 1386.9        | Charlton         | MA        |
+| Woodchuck Solar, LLC          | 1380.87       | Spencer          | MA        |
+| Dudley River 2 Solar, LLC     | 1335.6        | Southbridge      | MA        |
+| Dudley River 3 Solar, LLC     | 1335.6        | Southbridge      | MA        |
+| Bowden Solar, LLC             | 1412          | Monson           | MA        |
+| Boutillier Solar, LLC         | 4032          | Leicester        | MA        |
+| ISM Solar Dighton 2, LLC      | 2894.4        | Dighton          | MA        |
+| Palombo B Solar, LLC          | 1354.68       | Uxbridge         | MA        |
+| Palombo (A) Solar, LLC        | 2698.65       | Uxbridge         | MA        |
+| Sunset A Solar, LLC           | 693.45        | Spencer          | MA        |
+| Sunset B Solar, LLC           | 693.45        | Spencer          | MA        |
+| Ledeaux Solar, LLC            | 1239.66       | North Brookfield | MA        |
+

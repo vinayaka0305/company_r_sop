@@ -1,0 +1,90 @@
+📋 What To Do for Amber – Milford
+
+ 🔎 Monitoring Setup:
+
+*Monitoring Inbox: Amber → Milford
+*Lens Project Link: [View in Lens]
+    (https://lens.radiangen.com//entity/projects/view/130955)
+*O\&M Provider: NovaSource
+*SCADA Provider: NorCal
+*DAS: PlantView
+*MSS Scope: Yes
+
+---
+
+🚦 Outage Priorities & What to Do:
+
+ 🔹Low Priority
+
+*Outage Size: Less than 150 kW DC
+*Example: Combiner Box outage
+*Report By: Within 24 hours
+*Ticket Updates: Once per week
+
+---
+
+ 🔸Medium Priority
+
+*Outage Size: 150–1,500 kW DC
+*Example: Inverter outage
+*Report By: Same day
+*Ticket Updates: Every 48 hours
+
+---
+
+ 🔺High Priority
+
+*Outage Size: 1,500–2,500 kW DC
+*Example: Medium Voltage Transformer outage or more than 1 inverter offline
+*Report By: Within 4 hours
+*Ticket Updates: Every 24 hours
+
+---
+
+ 🔴Critical Priority
+
+*Outage Size: More than 2,500 kW DC
+*Example: MV Feeder outage or more than 4 inverters offline
+*Report: Immediately – direct notification required
+*Ticket Updates: Every 6 hours
+
+⚠️Action: UseLens “Notify Outage via Email” 
+if there'sno existing work order or notification from O\&M.
+
+---
+
+📧 Communication Outage Instructions:
+
+If thewhole site has a comms outage or all inverters lose communication:
+
+*To: `radian-greenit@radiangen.com`
+*Subject: `Amber - Milford Communications Outage`
+*Body:
+  ```
+  Amber - Milford Communications Outage. Please investigate.
+  (Include any extra available details)
+  ```
+*CC:
+
+  * Asset Manager
+  * Portfolio Associate
+  * Technical Lead
+  * Technical Specialist
+    *(Find these contacts on the Lens portfolio page)*
+  * `Milford.PM@radiangen.com`
+
+---
+
+🔧 Key Contacts:
+
+*NovaSource After Hours Control Room:
+  `nscr@novasourcepower.com`
+*O\&M Provider: NovaSource
+
+---
+
+📍 Project Info:
+
+|Project Name |Size (kW DC) |City     |State |
+| ---------------- | ---------------- | ------------ | --------- |
+| Milford Solar    | 127,750          | West Milford | Utah      |
