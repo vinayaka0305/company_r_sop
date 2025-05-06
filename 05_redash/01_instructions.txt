@@ -1,0 +1,251 @@
+Luciana Inverter Charting
+
+* Ticketing: Once a day, in the morning, for the previous day's issues.
+* Ticket For:
+  * Full site outages.
+  * Full inverter outages lasting 4 hours or more
+     (including production and communication).
+  * Inverter derates lasting 4 hours or more.
+* Do Not Ticket:
+  * Inverters with late starts, 
+  unless they take more than 4 hours to start producing after site startup.
+
+---
+
+ Central 40 Inverter Charting
+
+* Ticketing: Once a day, in the morning, for the previous day's issues.
+* Ticket For:
+  * Full site outages.
+  * Full inverter outages lasting 4 hours or more
+     (including production and communication).
+  * Inverter derates lasting 4 hours or more.
+* Do Not Ticket:
+  * Inverters with late starts, 
+  unless they take more than 4 hours to start producing after site startup.
+
+---
+
+ Pioneer Inverter Charting
+
+* Ticketing: Once a day, in the morning, for the previous day's issues.
+* Ticket For:
+  * Full site outages.
+  * Full inverter outages lasting 4 hours or more
+     (including production and communication).
+  * Inverter derates lasting 4 hours or more.
+* Do Not Ticket:
+  * Inverters with late starts, 
+  unless they take more than 4 hours to start producing after site startup.
+
+---
+
+ Mustang Inverter Charting
+
+* Ticketing: Once a day, in the morning, for the previous day's issues.
+* Ticket For:
+  * Full site outages.
+  * Full inverter outages lasting 4 hours or more
+     (including production and communication).
+  * Inverter derates lasting 4 hours or more.
+* Do Not Ticket:
+  * Inverters with late starts, 
+  unless they take more than 4 hours to start producing after site startup.
+
+---
+
+ Milford Inverter Charting
+
+* Late Startup: Wait for 30 minutes to ticket.
+* Work Order: Ticket immediately if a work order is received.
+* Inverter Down: Ticket immediately.
+
+---
+
+ Phoenix Inverter Charting
+
+* Ticket For:
+
+  * Production outages of any length.
+  * Communication outages lasting 1 hour or more.
+
+---
+
+ Coniglio Inverter Charting
+
+* Late Startup: If it takes 1 hour or more, ticket immediately.
+* Work Order: Ticket immediately if a work order is received.
+* Inverter Down: Ticket immediately.
+
+---
+
+ Concho Valley Inverter Charting
+
+* Late Startup: If it takes 2 hours or more, ticket immediately.
+* Work Order: Ticket immediately if a work order is received.
+* Inverter Down: Ticket immediately.
+
+---
+
+ Harts Mill Inverter Charting
+
+* Late Startup: If it takes 1 hour or more, ticket immediately.
+* Work Order: Ticket immediately if a work order is received.
+* Inverter Down: Ticket immediately.
+
+---
+
+ Kellam Inverter Charting
+
+* Buffer Timeline: 8:30 AM (ticket after this time).
+* Work Order: Ticket immediately if a work order is received.
+* Inverter Down: Ticket immediately.
+
+---
+
+ Truman Inverter Charting
+
+* Ticket For:
+  * Inverter late startup or dropped offline immediately, no buffer time.
+
+---
+
+ Hertford Inverter Charting
+
+* Late Startup: If it takes 1 hour or more, ticket immediately.
+* Work Order: Ticket immediately if a work order is received.
+* Inverter Down: Ticket immediately.
+
+---
+
+ Corazon Inverter Charting
+
+* Buffer Timeline: 9:00 AM.
+* Work Order: Ticket immediately if a work order is received.
+* Inverter Down: Ticket if it's down for 1 hour.
+
+---
+
+ Innovative 67 Inverter Charting
+
+* Late Startup or Offline: Ticket immediately, no buffer timeline.
+
+---
+
+ Innovative 54 Inverter Charting
+
+* Late Startup or Offline: Ticket immediately, no buffer timeline.
+
+
+---
+
+ Buckleberry Inverter Charting
+
+* Late Startup or Offline: Ticket immediately, no buffer timeline.
+
+
+---
+
+ Brantley Inverter Charting
+
+* Late Startup or Offline: Ticket immediately, no buffer timeline.
+
+
+---
+
+ Fox Creek Inverter Charting
+
+* Late Startup or Offline: Ticket immediately, no buffer timeline.
+
+---
+
+ Taygete I Inverter Charting
+
+* Ticket For:
+
+  * Full site outages.
+  * Full inverter outages lasting 1 hour or more.
+  * Inverter outages that last less than an hour but are still active should be 
+    ticketed.
+* Do Not Ticket:
+  * Inverter late starts before 9:00 AM.
+  * Inverter derates.
+  * If the inverter drops offline, comes back online,
+    and drops offline again within 2 days,
+    create an intermittent outage ticket and leave it open.
+
+---
+
+ West Texas Inverter Charting
+
+* Same as Taygete I.
+
+---
+
+ Galloway-224WB 8ME Inverter Charting
+
+* Buffer Timeline: 9:00 AM.
+* Work Order: Ticket immediately if a work order is received.
+* Inverter Down: Ticket if it's down for 1 hour.
+
+---
+
+ Cutlass II Inverters
+
+* Same as Galloway-224WB.
+
+---
+
+ Euryalus Inverter Charting
+
+* Late Startup or Offline: Ticket immediately, no buffer timeline.
+
+---
+
+ Altona Inverter Charting
+
+* Buffer Timeline: 9:00 AM.
+* Work Order: Ticket immediately if a work order is received.
+* Inverter Down: Ticket if it's down for 15 minutes.
+
+---
+
+ Earp Inverters Charting
+
+* Same as Altona.
+
+---
+
+ Sunray Inverters Charting
+
+* Buffer Timeline: 9:00 AM.
+* Work Order: Ticket immediately if a work order is received.
+* Inverter Down: Ticket immediately, no buffer timeline.
+
+---
+
+ Brazoria Inverter Charting (Breaker F100 Feeder-1 to 4)
+
+* Do Not Ticket: Production outages unless no curtailment is happening.
+
+---
+
+ Elara Inverter Charting
+
+* Ticket For:
+
+  * Inverter outages for any duration.
+  * Communication outages lasting 1 hour or more.
+  * Partial outages if there’s obvious derating.
+
+---
+
+ NES OLYMPOS Inverter Charting
+
+* No Details Provided.
+
+---
+
+ Reactivate Portfolio's Inverter Charting
+
+* Late Startup or Offline: Ticket immediately, no buffer timeline.
