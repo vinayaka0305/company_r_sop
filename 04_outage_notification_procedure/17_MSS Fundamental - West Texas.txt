@@ -1,0 +1,63 @@
+📋 What To Do for West Texas Solar / Hackberry
+
+ 🔎 Monitoring Setup:
+
+* Monitoring Inbox: Fundamental Renewables → West Texas
+* Lens Project Link: [View in Lens]
+(https://lens.radiangen.com//entity/projects/view/133405)
+* O\&M Provider: SOLV Energy
+* DAS: Redash
+
+---
+
+ 🚦 Outage Priorities & Actions
+
+| Priority      | Outage Threshold (KW)          | Example Equipment Affected |
+| ------------  | ------------------------- | ------------------------------ |
+| Low           | Less than 600             | Strings / Combiner Box         |
+| Medium        | 600–3,350                 | Inverter Submodule(s)          |
+| High          | 3,350–16,750              | Inverter – AC Feeder           |
+| Critical      | Over 16,750               | Partial or Total Site Outage   |
+
+🛠️ Critical Outage Action:
+If no work order/notification is seen in Lens, send a Lens “Notify Outage via Email” for Critical Priority outages.
+
+---
+
+ 📡 Communications Outage Procedure:
+
+If the entire site or all inverters go offline:
+
+* To: `radian-greenit@radiangen.com`
+* Subject: `Fundamental - West Texas Communications Outage`
+* Body:
+
+  ```
+  Fundamental - West Texas Communications Outage. Please investigate.
+  ```
+* CC:
+
+  * Asset Manager
+  * Portfolio Associate
+  * Technical Lead
+  * Specialist (from Lens)
+  * `WestTexasSolar2.PM@radiangen.com`
+
+---
+
+ ✉️ Contact List:
+
+* SOLV OCC: `solvocc@solvenergy.com`
+* Regional Lead: David Berlanga – `david.berlanga@solvenergy.com` – ☎ 210-862-3371
+* Account Rep: Frederico Flores – `frederico.flores@solvenergy.com` – ☎ 619-742-7013
+* Owner (Fundamental): Joshua Turner – `jturner@fundamentalrenewables.com` – ☎ 415-535-2740
+
+---
+
+ 🗂️ Project Details:
+
+| Project Name             | DC Size (kW) | City | State |
+| ---------------------------- | ---------------- | -------- | --------- |
+| West Texas Solar / Hackberry | 258,300          | Coyanosa | Texas     |
+
+---

@@ -1,0 +1,33 @@
+📋 What To Do for Content Solar
+
+🔎 Monitoring Setup:
+
+* Monitoring Inbox: *Not Applicable* (No alerts received from O\&M provider)
+* Lens Portfolio Link:
+    (https://lens.radiangen.com//entity/projects/view/468)
+* O\&M Provider: Solarig
+* O\&M Contact: Michael – `contentsolar@solarig.com`
+* DAS: GPM (GreenPowerMonitor)
+
+---
+
+ 🚨 Important Rules for Outages:
+
+* DO NOT create tickets for any outages on this portfolio.
+* ONLY send an internal notification to the `content_jamaica` Slack channel
+
+ if:
+* The inverter outage is sustained (not short-term or quickly resolved).
+* Do NOT notify if:
+
+  * The issue was a late start but is now resolved.
+  * The outage self-resolved on the same day.
+
+---
+
+ 🗂️ Project Details:
+
+| Project Name       | DC Rating (kW)     | City           | State          |
+| ------------------ | ------------------ | -------------- | ------------------ |
+| Content Solar Farm | 28,500             | Osbourne Store | Clarendon, Jamaica |
+

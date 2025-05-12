@@ -1,0 +1,56 @@
+📋 What To Do for CBC Steel Projects (GE EFS)
+
+🔎 Monitoring Setup:
+
+* Monitoring Inbox: *N/A – Radian identifies outages directly*
+* Lens Portfolio Link: [View in Lens]
+(https://lens.radiangen.com//entity/portfolios/view/271)
+* O\&M Provider: DSD Renewables
+* DAS: AlsoEnergy PowerTrack
+* Slack Alerts: Internal Radian alerts only
+
+---
+
+ 🚦 Outage Priorities & Actions
+
+| Priority | Outage Threshold (KW) | Example Equipment Affected             | Lens Notification                    | Ticket Update |
+| ------------ | ------------------------- | ------------------------------------------ | ---------------------------------------- | ----------------- |
+| Low      | <30                       | Module Strings                             | 24 hrs (Strings) / Upon O\&M (Combiners) | Once/week         |
+| Medium   | 30–36                     | Underperforming Strings or String Inverter | Same Day                                 | Every 48 hrs      |
+| High     | >36                       | String Inverter                            | 4 hrs                                    | Every 24 hrs      |
+| Critical | Total Site Outage         | Entire Site Down                           | Immediately (Direct Notification)        | Every 6 hrs       |
+
+> Use Lens “Notify Outage via Email” for any priority outage if no notification is received.
+
+---
+
+ 🛑 Emergency & Notification Procedure:
+
+For Complete Site Outages or Emergencies:
+
+* CC ALL GE contacts.
+* Include all contacts listed in the table below in notification emails.
+* For emergencies or major onsite issues, escalate immediately to GE.
+
+---
+
+ ✉️ Contact List
+
+| Name            | Company      | Role                    | Email                                                                     | Phone    | Include In Notifications            |
+| --------------- | ------------ | ----------------------- | ----------------------------------------------------------------------------- | ------------ | --------------------------------------- |
+| Thomas Carr     | GE Corporate | Owner                   | [thomas.carr@ge.com](mailto:thomas.carr@ge.com)                               | N/A          | Complete Site Outages & Emergencies |
+| John Matta      | GE Corporate | Project Technician      | N/A                                                                           | N/A          | Complete Site Outages               |
+| Adrienne Peters | DSD          | Sr. Technical Planner   | [adrienne.peters@dsdrenewables.com](mailto:adrienne.peters@dsdrenewables.com) | 518.709.9265 | ✅                                       |
+| Chris Gullett   | DSD          | Technical Asset Manager | [chris.gullett@dsdrenewables.com](mailto:chris.gullett@dsdrenewables.com)     | N/A          | ✅                                       |
+| Shelley Coffman | Radian       | Portfolio Manager       | [shelley.coffman@radiangen.com](mailto:shelley.coffman@radiangen.com)         | 415.757.6122 | ✅                                       |
+| Michael Perez   | Radian       | Technical Lead          | [michael.perez@radiangen.com](mailto:michael.perez@radiangen.com)             | 415.971.1710 | ✅                                       |
+
+---
+
+ 🗂️ Project Details
+
+| Project Name      | DC Size (kW)     | Location              |
+| ----------------- | ---------------- | ------------------------- |
+| CBC Steel Carport | 396              | Lathrop, California 95330 |
+| CBC Steel Rooftop | 705.6            | Lathrop, California 95330 |
+

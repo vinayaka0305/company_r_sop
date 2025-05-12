@@ -1,0 +1,55 @@
+📋 What To Do for ENI – Brazoria
+
+🔎 Monitoring Setup:
+
+*Monitoring Inbox: ENI → Brazoria
+*Lens Portfolio Link:
+    (https://lens.radiangen.com//entity/projects/view/133769)
+*O\&M Provider: Invenergy
+*O\&M Notification Email:
+ `dnr_invenergyoutagenotifications@invenergy.com` *(possible inbox for alerts)*
+*DAS: SCADA Site (can chart in Redash)
+
+---
+
+🚦 Outage Priorities & Required Actions:
+
+|Priority |Outage Threshold (KW) |Example Issue                 |
+| ------------ | ------------------------- | --------------------------------- |
+|Low      | Less than 150             | String outage                     |
+|Medium   | 150–168                   | Combiner box outage               |
+|High     | 168–840                   | Partial inverter outage           |
+|Critical | Over 840                  | Full inverter or site-wide outage |
+
+🛠️Action for Critical Priority Outages:
+If there isno notification or case from the O\&M in the monitoring inbox, send aLens “Notify Outage via Email” alert.
+
+---
+
+📡 Communication Outage Protocol:
+
+If theentire site orall inverters lose communications:
+
+*To: `radian-greenit@radiangen.com`
+*Subject: `ENI - Brazoria Communications Outage`
+*Body:
+
+  ```
+  ENI - Brazoria Communications Outage. Please investigate.
+  ```
+*CC:
+
+  * Asset Manager
+  * Portfolio Associate
+  * Technical Lead
+  * Specialist (as listed in Lens)
+  * `brazoria.PM@radiangen.com`
+
+---
+
+ 🗂️ Project Details:
+
+|Project Name      |DC Rating (kW)      |City      |State |
+| ---------------- | ------------------ | -------- | --------- |
+| Brazoria         | 262,500            | Damon    | Texas     |
+

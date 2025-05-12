@@ -1,0 +1,33 @@
+ 📋Hanwha – Coniglio: Outage Management Guide
+
+ 🔎 Monitoring & Operations
+
+* Monitoring Inbox: Coniglio
+* O\&M Provider: Convergence
+* DAS: SCADA Site – Chartable in Redash
+* Lens Portfolio Link:[View in Lens]
+(https://lens.radiangen.com//entity/projects/view/131886)
+* Primary Contact: [roc.us@hanwha.com](mailto:roc.us@hanwha.com)
+
+---
+
+ 🚦 Outage Categories & Response Timing
+
+| Priority         | Outage Threshold (KW)     | Equipment                         | Notification Timing (via Lens) | Ticket Update Frequency |
+| ---------------- | ------------------------- | --------------------------------- | ---------------------------------- | --------------------------- |
+| Low Priority     | < 100                     | String Outage                     | Within 24 hrs                      | Once per week               |
+| Medium           | 100 - 250                 | Combiner Box Outage               | Within 12 hrs                      | Every 48 hrs                |
+| High             | 250 - 3150                | Partial Inverter Outage           | Within 6 hrs                       | Every 24 hrs                |
+| Critical         | > 3150                    | Full Inverter / Total Site Outage | Immediately (and direct notice)    | Every 6 hrs                 |
+
+> ✅ Lens Notification Required:
+> Use "Notify Outage via Email" for Critical Priority outages
+ if no DEPCOM Lens ticket is available.
+
+---
+
+ 📍 Project Overview
+
+| Project Name     | System Size (KWDC)     | City       | State |
+| ---------------- | ---------------------- | ---------- | --------- |
+| Coniglio         | 167,955                | Wolfe City | Texas     |

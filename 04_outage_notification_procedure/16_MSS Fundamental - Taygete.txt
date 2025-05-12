@@ -1,0 +1,64 @@
+📋 What To Do for Taygete 1
+
+ 🔎 Monitoring Setup:
+
+* Monitoring Inbox: Fundamental Renewables → Taygete
+* Lens Project Link: [View in Lens]
+(https://lens.radiangen.com//entity/projects/view/133405)
+* O\&M Provider: SOLV Energy
+* SCADA: SOLV
+* DAS: Redash
+
+---
+
+ 🚦 Outage Priorities & Required Actions:
+
+| Priority      | Outage Threshold (KW)           | Example Issue             |
+| ------------  | ------------------------- | ----------------------------- |
+| Low           | Less than 600             | Strings / Combiner Box outage |
+| Medium        | 600–3,350                 | Inverter submodule(s) outage  |
+| High          | 3,350–16,750              | Inverter - AC feeder outage   |
+| Critical      | Over 16,750               | Partial or full site outage   |
+
+🛠️ Action for Critical Priority Outages:
+If there is no work order or notification from O\&M in Lens,
+send a Lens “Notify Outage via Email” alert.
+
+---
+
+ 📡 Communication Outage Protocol:
+
+If the whole site or all inverters lose communications:
+
+* To: `radian-greenit@radiangen.com`
+* Subject: `Fundamental - Taygete Communications Outage`
+* Body:
+
+  ```
+  Fundamental - Taygete Communications Outage. Please investigate.
+  ```
+* CC:
+
+  * Asset Manager
+  * Portfolio Associate
+  * Technical Lead
+  * Specialist (from Lens)
+  * `Taygete1.PM@radiangen.com`
+
+---
+
+ ✉️ Contact List:
+
+* SOLV Operations Control Center: `solvocc@solvenergy.com`
+* SOLV Regional Lead: AJ Sahagun – `aj.sahagun@solvenergy.com`
+* SOLV Account Rep: Matthew Contreras – `matthew.contreras@solvenergy.com`
+* Owner (Fundamental Renewables):
+  Megan Sophocles – `msophocles@fundamentalrenewables.com` – ☎ 443.263.2857
+
+---
+
+ 🗂️ Project Details:
+
+| Project Name | DC Size (kW) | City | State |
+| ---------------- | ---------------- | -------- | --------- |
+| Taygete 1        | 344,100          | Coyanosa | Texas     |

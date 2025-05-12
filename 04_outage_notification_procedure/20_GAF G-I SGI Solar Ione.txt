@@ -1,0 +1,35 @@
+📋 GAF G-I SGI Solar Ione – Outage Management Guide
+
+🔎 Monitoring Details:
+
+*Monitoring Inbox: *N/A – No alerts received from O\&M provider*
+*O\&M Provider: Enable Energy
+*Lens Portfolio Link: 
+[View in Lens](https://lens.radiangen.com//entity/portfolios/view/281)
+*DAS: Locus (Phase I) & AlsoEnergy (All projects integrated)
+
+---
+
+🚦 Outage Priorities & Actions
+
+|Priority       |Outage Threshold (KWdc)      |Equipment           |Lens Notification Timing |Ticket Update |
+| ------------  | --------------------------- | ------------------ | ---------------------------- | ----------------- |
+|Low            | < 125                       | Inverter           | Within 48 hrs                | Once per week     |
+|Medium         | < 500                       | Multiple Inverters | Within 24 hrs                | Every 48 hrs      |
+|High           | < 1000                      | Multiple Inverters | Same Day                     | Every 24 hrs      |
+|Critical       | ≥ 1000                      | Site-Wide          | Within 4 hrs                 | Every 6 hrs       |
+
+>Lens Notification: Use"Notify Outage via Email" in Lens forany unresolved outage.
+> Forself-resolved or late-start issues,
+use internal notifications only (e.g., Slack or dashboard note).
+
+---
+
+ 🗂️ Project Portfolio
+
+|Project Name                      |DC Size (kW)      |City      |State  |
+| -------------------------------- | ---------------- | -------- | ---------- |
+| G-I SGI Solar Ione Phase I       | 2249.61          | Ione     | California |
+| SGI Ione Phase II - Color Solar  | 335.98           | Ione     | California |
+| SGI Ione Phase II - Mill Solar   | 2350             | Ione     | California |
+| SGI Ione Phase II - Quarry Solar | 371.48           | Ione     | California |

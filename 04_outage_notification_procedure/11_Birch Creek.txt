@@ -1,0 +1,84 @@
+📋 What To Do for Birch Creek
+
+ 🔎 Monitoring Setup:
+
+* Monitoring Inbox: Birch Creek → Altona
+* Lens Link: 
+    (https://lens.radiangen.com/#/entity/clients/view/172)
+* O\&M Provider: Origis
+* DAS: SCADA Site (charting in Redash)
+
+---
+
+ 🚦 Outage Priorities & Required Actions:
+
+ 🔹 Low Priority
+
+* Outage Size: Less than 250 kW
+* Example: Combiner box outage
+* Report By: Within 24 hours
+* Ticket Updates: Once per week
+
+---
+
+ 🔸 Medium Priority
+
+* Outage Size: 250–3,150 kW
+* Example: Partial inverter outage
+* Report By: Within 12 hours
+* Ticket Updates: Every 48 hours
+
+---
+
+ 🔺 High Priority
+
+* Outage Size: 3,150 kW
+* Example: Full inverter outage
+* Report By: Within 6 hours
+* Ticket Updates: Every 24 hours
+
+---
+
+ 🔴 Critical Priority
+
+* Outage Size: Over 3,150 kW
+* Example: Multiple inverters or total site outage
+* Report: Immediately – direct notification required
+* Ticket Updates: Every 6 hours
+
+⚠️ Action:
+If no work order or notification is found in Lens, send a Lens "Notify Outage via Email" for Critical Priority outages.
+
+---
+
+ 📧 Contacts:
+
+ Origis:
+
+* Operations Center: `aroc@origisservices.com`
+
+ Birch Creek:
+
+* All Outages in Lens: Cristi Thomas – `cthomas@birchcreekdev.com`
+* Critical Outages Only:
+
+  * Jacob Halstrom – `halstrom@birchcreekdev.com`
+  * Thomas Valet – `valet@fcmservicesgroup.com`
+  * Brian Montanelli – `montanelli@fcmservicesgroup.com`
+  * Jeff Wand – `jeff@fossandco.com`
+  * Andrew Muro – `andrew@fossandco.com`
+  * Walter Edstrom (Syso) – `wedstrom@syso.com`
+
+---
+
+ 🗂️ Project Details:
+
+| Project Name | Size (kWDC) | City   | State |
+| ---------------- | --------------- | ---------- | --------- |
+| Earp             | 41,700          | Centralia  | Missouri  |
+| Envoy            | 68,700          | Mexico     | Missouri  |
+| Altona           | 48,777          | Monmouth   | Illinois  |
+| Kimmel Rd        | 69,692          | Du Quoin   | Illinois  |
+| Richland Solar I | 48,763          | Washburn   | Illinois  |
+| Salt Creek       | 69,700          | Mason City | Illinois  |
+

@@ -1,0 +1,66 @@
+📋 What To Do for ENI – Corazon
+
+ 🔎 Monitoring Setup:
+
+* Monitoring Inbox: ENI → Corazon
+* Lens Portfolio Link: [View in Lens]
+    (https://lens.radiangen.com//entity/projects/view/133768)
+* O\&M Provider: BayWa
+* O\&M Ticket Dashboard (No Login):
+ [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzAzNzBmNWYtMjg5NS00OGZlLTlhOTMtNTU4ZTZhYTM0NDYxIiwidCI6ImM1ZDM1MDgxLWQ4OGUtNGQyNy04YzMyLThjYzJlNGM2MWMxMiIsImMiOjh9)
+* DAS: SCADA site (Chart in Redash)
+
+---
+
+ 🚦 Outage Priorities & Required Actions:
+
+| Priority | Outage Threshold (KW) | Example Issue            |
+| ------------ | ------------------------- | ---------------------------- |
+| Low      | Less than 150             | String outage                |
+| Medium   | 150–250                   | Combiner box outage          |
+| High     | 250–3190                  | Partial inverter outage      |
+| Critical | Over 3190                 | Full inverter or site outage |
+
+🛠️ Action for Critical Priority Outages:
+If no case/notification is found in the O\&M Monitoring Inbox or BayWa Power BI Report,
+send a Lens “Notify Outage via Email” alert.
+
+---
+
+ 📡 Communication Outage Protocol:
+
+If the entire site or all inverters lose communications:
+
+* To: `radian-greenit@radiangen.com`
+* Subject: `ENI - Corazon Communications Outage`
+* Body:
+
+  ```
+  ENI - Corazon Communications Outage. Please investigate.
+  ```
+* CC:
+
+  * Asset Manager
+  * Portfolio Associate
+  * Technical Lead
+  * Specialist (as listed in Lens)
+  * `corazon.PM@radiangen.com`
+
+---
+
+ ✉️ Ticket Distribution Contacts:
+
+* David Uruchurtu – `david.uruchurtu@baywa-re.com`
+* Nick Pegnato – `nick.pegnato@baywa-re.com`
+* Radian Monitoring – `monitoring@radiangen.com`
+* Project Email – `Corazon.PM@radiangen.com`
+* ENI Renewables – `renewablescr@eniplenitude.com`
+
+---
+
+ 🗂️ Project Details:
+
+| Project Name     | DC Rating (kW)     | City     | State |
+| ---------------- | ------------------ | -------- | --------- |
+| Corazon          | 265,500            | Laredo   | Texas     |
+
