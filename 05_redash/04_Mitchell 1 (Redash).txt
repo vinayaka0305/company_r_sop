@@ -1,0 +1,36 @@
+✅ What You Need to Do:
+
+1. Check the Redash Link
+
+   * Use this link: [Mitchell Inverter Charting (Redash)]
+   (http://analytics.radiangen.com/dashboard/mitchell-inverter-charting-hourly-)
+
+2. For the Following Fronius Sites Only:
+
+   * Burgaw
+   * Ennis
+   * Traveller
+   * Little Mountain
+   * Pecan Grove
+   * Suncaster
+   * Catherine Lake
+   * Swansboro
+
+   🔸 Only Ticket for:
+
+   * Full site outages
+   * Full site late starts (if the whole site starts producing at 9:00 AM or later)
+
+   ❌ Do NOT ticket for:
+
+   * Inverter-level outages
+   * Full transformer outages (which affect \~69 inverters at once)
+
+   👉 Instead of ticketing transformer outages, just notify the Mitchell team in the correct Slack channel.
+
+---
+
+ ✅ For All Other Mitchell Sites (non-Fronius):
+
+* Follow normal rules:
+  → Ticket inverter outages as alerts come into AlertOps.
