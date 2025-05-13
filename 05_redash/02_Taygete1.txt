@@ -1,0 +1,42 @@
+When to Make Tickets:
+
+1. Full Site Outages
+
+   * If the entire site goes down, always make a ticket.
+
+2. Inverter Outages (1 hour or longer)
+
+   * If one inverter (not the whole site) is completely down (no power and no communication) for 1 hour or more, make a ticket.
+   * If it is still down now, make the ticket right away.
+
+3. Short Inverter Outages (less than 1 hour)
+
+   * If an inverter was down but came back within an hour, do not make a ticket.
+
+---
+
+ Special Cases:
+
+4. Late Starts
+
+   * If an inverter starts working before 9:00 AM, do not ticket it, even if it started later than usual.
+
+5. Derates (low power output)
+
+   * If an inverter is producing less power than normal (a derate), do not make a ticket.
+
+6. Intermittent Outages
+
+   * If an inverter goes offline, comes back, and goes offline again within 2 days,
+     → Create one "intermittent outage" ticket and keep it open.
+     → Do not create a new ticket for each drop.
+
+---
+
+ Important Notes:
+
+* Do not use "Generic Inverter Asset" when making tickets.
+  → Always select the specific inverter having the issue.
+
+* If the same inverter keeps having problems over several days,
+  → Use the intermittent outage ticket you already made — no need to make new ones.
